@@ -1,0 +1,1 @@
+oSpider.vspeed = -2;

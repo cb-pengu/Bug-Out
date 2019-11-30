@@ -1,0 +1,1 @@
+oAnt.isStunned = false;
